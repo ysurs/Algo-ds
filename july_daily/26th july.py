@@ -76,3 +76,5 @@ class Solution:
         else:
             return minspeed
 
+time complexity is o(nlogk)
+space complexity is o(1)
