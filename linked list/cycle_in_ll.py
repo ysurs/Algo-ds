@@ -53,3 +53,5 @@ class Solution:
             return False
         else:
             return True
+        
+Time complexity: O(N)
