@@ -33,4 +33,4 @@ class Solution:
     1. be careful with the self pointer. I made the mistake of just calling invert without self. Its wrong because
     invert is the member of class Solution and hence it must be called using self.
     
-    2. Complexity is O(n)
+    2. Complexity is O(n) and space is O(n) due to call stack
