@@ -5,6 +5,7 @@ Output: [7,0,8]
 Explanation: 342 + 465 = 807.
 
 my approach:
+Wrong and complicated
     class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
