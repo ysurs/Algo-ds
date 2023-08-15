@@ -3,6 +3,7 @@ https://leetcode.com/problems/merge-two-binary-trees/description/
 The approach i was trying to do:
     
 class Solution:
+Wrong solution
 def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
 
 

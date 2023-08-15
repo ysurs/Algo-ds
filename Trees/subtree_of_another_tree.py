@@ -4,7 +4,7 @@ A subtree of a binary tree tree is a tree that consists of a node in tree and al
 
 
 My approach:
-
+Wrong implementation
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         
